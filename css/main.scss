@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+html {
+    font-size: 62.5%;
+}
+@import 'variables';
+@import 'header';
+@import 'main-section-bck';
+@import 'content';
+@import 'contact';
+@import 'views';
